@@ -1,0 +1,200 @@
+h1{
+	background-color:brown;
+	color: white;
+	text-align: center;
+	font-family:times;
+	font-size: 30px;
+	
+}
+body{
+	
+	background:rosybrown;
+}
+table{
+	width:900px;
+	margin:auto;
+	table-layout:fixed;
+	margin-top:30px;
+	font-family:Arial;
+	color:#fff;
+	border:1 px dotted black;
+	border-collapse:collapse;
+    padding:20px;
+	font-size:20px;
+	
+}
+.orange{
+	
+	background-color: brown;
+	color: white;
+	font-size: 20px;
+}
+.blue{
+	background-color: brown;
+	color: white;
+	font-size: 20px;
+	
+}
+.yellow{
+	background-color: brown;
+	color: white;
+	font-size: 20px;
+	
+}
+.from{
+	background-color: white;
+	color: black;
+    font-size: 20px;
+}
+.to{
+	background-color: white;
+	color: black;
+    font-size: 20px;
+}
+.to1{
+	background-color: white;
+	color: black;
+	font-size: 20px;
+}
+.start{
+	background-color: brown;
+	color: white;
+font-size: 20px;
+}
+.time{
+	
+	
+	background-color: brown;
+	color: white;
+	font-size: 20px;
+}
+.time1{
+	
+	background-color: brown;
+	color: white;
+	font-size: 20px;
+}
+.off{
+	
+	
+	background-color: brown;
+	color: white;
+   font-size: 20px;
+}
+.no{
+	
+	background-color: brown;
+	color: white;
+	font-size: 20px;
+}
+.sun{
+	background-color: brown;
+	color: white;
+	font-size: 20px;
+}
+.fare{
+
+background-color: white;
+	color: black;
+font-size: 20px;
+}
+.ac{
+	background-color: white;
+	color: black;
+	font-size: 20px;
+}
+.sent{
+	
+	
+	background-color: white;
+	color: black;
+	font-size: 20px;
+}
+
+
+
+
+#survey-form{
+  background-color:brown;
+  color:black;
+  padding:1em;
+  max-width:1000px;
+  margin:0 auto 0 auto;
+  
+}
+.row-tab{
+  display:block;
+  padding-top:25px;
+}
+.name{
+  display:inline-block;
+  width:35%;
+  text-align:right;
+  font-size:25px;
+  color:white;
+}
+.input{
+  display:inline-block;
+  width:40%;
+  text-align:left;
+}
+.label-select{
+  display:inline-block;
+  width:52.5%;
+  text-align:right;
+  font-size:25px;
+  color:white;
+}
+.select-input{
+  display:inline-block;
+   text-align:left;
+  width:5%;
+  font-size:20px;
+  color:white;
+  
+}
+.label-radio{
+  display:inline-block;
+  width:50%;
+  text-align:right;
+  vertical-align:top;
+  font-size:25px;
+  color:white;
+}
+.radio-input{
+  display:inline-block;
+  text-align:left;
+  width:30%;
+  font-size:20px;
+  color:white;
+}
+.checkbox-label{
+  display:inline-block;
+  width:50%;
+  text-align:right;
+  vertical-align:top;
+  font-size:25px;
+  color:white;
+}
+.checkbox-input{
+  display:inline-block;
+  text-align:left;
+  width:30%;
+  font-size:20px;
+  color:white;
+}
+textarea{
+  width:600px;
+  height:140px;
+  alignt:left;
+ 
+button{
+  width:100px;
+  height:35px;
+  color:white;
+  background-color:brown;
+}
+.comment{
+  font-size:25px;
+}
+

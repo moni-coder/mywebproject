@@ -1,0 +1,48 @@
+h1{
+	background-color:slateblue;
+	color: white;
+	text-align: center;
+	font-family:times;
+	font-size: 30px;
+	
+}
+body{
+	
+	background:skyblue;
+}
+table{
+	width:900px;
+	margin:auto;
+	table-layout:fixed;
+	margin-top:30px;
+	font-family:Arial;
+	color:#fff;
+	border:1 px dotted black;
+	border-collapse:collapse;
+    padding:20px;
+	font-size:20px;
+	
+}
+.orange{
+	
+	background-color: slateblue;
+	color: white;
+	font-size: 20px;
+}
+.blue{
+	background-color: slateblue;
+	color: white;
+	font-size: 20px;
+	
+}
+
+.from{
+	background-color:mediumslateblue;
+	color: white;
+    font-size: 20px;
+}
+.to{
+	background-color: mediumslateblue;
+	color: black;
+    font-size: 20px;
+}

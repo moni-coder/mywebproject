@@ -1,0 +1,202 @@
+h1{
+	background-color:#09A7A5;
+	color: white;
+	text-align: center;
+	font-family:times;
+	font-size: 30px;
+	
+}
+body{
+
+	background:#33F9FF;
+}
+table{
+	width:900px;
+	margin:auto;
+	table-layout:fixed;
+	margin-top:30px;
+	font-family:Arial;
+	color:#fff;
+	border:1 px dotted black;
+	border-collapse:collapse;
+    padding:20px;
+	font-size:20px;
+	
+}
+.orange{
+	
+	background-color: #09A7A1;
+	color: white;
+	font-size: 20px;
+}
+.blue{
+	background-color: #09A7A1;
+	color: white;
+	font-size: 20px;
+	
+}
+.yellow{
+	background-color: #09A7A1;
+	color: white;
+	font-size: 20px;
+	
+}
+.from{
+	background-color: white;
+	color: black;
+    font-size: 20px;
+}
+.to{
+	background-color: white;
+	color: black;
+    font-size: 20px;
+}
+.to1{
+	background-color: white;
+	color: black;
+	font-size: 20px;
+}
+.start{
+	background-color: #09A7A1;
+	color: white;
+font-size: 20px;
+}
+.time{
+	
+	
+	background-color:#09A7A1;
+	color: white;
+	font-size: 20px;
+}
+.time1{
+	
+	background-color:#09A7A1;
+	color: white;
+	font-size: 20px;
+}
+.off{
+	
+	
+	background-color:#09A7A1;
+	color: white;
+   font-size: 20px;
+}
+.no{
+	
+	background-color: #09A7A1;
+	color: white;
+	font-size: 20px;
+}
+.sun{
+	background-color: #09A7A1;
+	color: white;
+	font-size: 20px;
+}
+.fare{
+
+background-color: white;
+	color: black;
+font-size: 20px;
+}
+.ac{
+	background-color: white;
+	color: black;
+	font-size: 20px;
+}
+.sent{
+	
+	
+	background-color: white;
+	color: black;
+	font-size: 20px;
+}
+
+
+
+
+#survey-form{
+  background-color:#09A7A1;
+  color:black;
+  padding:1em;
+  max-width:1000px;
+  margin:0 auto 0 auto;
+  border:5px solid skyblue;
+}
+.row-tab{
+  display:block;
+  padding-top:20px;
+}
+.name{
+  display:inline-block;
+  width:35%;
+  text-align:right;
+  font-size:25px;
+  color:white;
+}
+.input{
+  display:inline-block;
+  width:50px;
+  text-align:left;
+  font-size:20px;
+  margin-top:10px;
+}
+.label-select{
+  display:inline-block;
+  width:52.5%;
+  text-align:right;
+  font-size:25px;
+  color:white;
+}
+.select-input{
+  display:inline-block;
+  text-align:left;
+  width:5%;
+  font-size:20px;
+  color:white;
+  
+}
+.label-radio{
+  display:inline-block;
+  width:50%;
+  text-align:right;
+  vertical-align:top;
+  font-size:25px;
+  color:white;
+}
+.radio-input{
+  display:inline-block;
+  text-align:left;
+  width:30%;
+  font-size:20px;
+  color:white;
+}
+.checkbox-label{
+  display:inline-block;
+  width:50%;
+  text-align:right;
+  vertical-align:top;
+  font-size:25px;
+  color:white;
+}
+.checkbox-input{
+  display:inline-block;
+  text-align:left;
+  width:30%;
+  font-size:20px;
+  color:white;
+}
+textarea{
+  width:600px;
+  height:140px;
+  align:left;
+}
+button{
+  width:100px;
+  height:35px;
+  color:black;
+  background-color:#33E9FF;
+}
+.comment{
+  font-size:25px;
+}
+

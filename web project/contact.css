@@ -1,0 +1,186 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.contact_form
+{
+	padding:30px 50px;
+	
+}
+.contact_form .details_box
+{
+	margin-bottom:40px;
+	margin-top:40px;
+}
+.contact_form .details_box .single_box
+{
+	padding-bottom:40px;
+	background:white;
+	text-align:center;
+	box-shadow: #09A7A1;
+	height:300px;
+	
+	
+	
+}
+.contact_form .details_box .single_box span
+{
+	font-size:34px;
+	color:#C0392B ;
+	margin-bottom:40px;
+}
+.contact_form .details_box .single_box h2
+{
+	font-size:20px;
+	
+}
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.contact_form
+{
+	 margin: 3rem 0;
+     padding:50px;
+	
+}
+.contact_form .details_box
+{
+	margin-bottom:40px;
+}
+.contact_form .details_box .single_box
+{
+	padding:30px;
+	background:white;
+	text-align:center;
+	box-shadow:inset 4px 4px 24px 12px#09A7A1 ;
+	height:auto;
+	
+}
+.contact_form .details_box .single_box span
+{
+	font-size:34px;
+	color:#C0392B ;
+}
+.contact_form .details_box .single_box h2
+{
+	font-size:20px;
+	
+}
+.contact_form .details_box .single_box p
+{
+	
+}
+
+
+form
+{
+	background: #09A7A1;
+	padding:40px;
+	box-shadow:inset 0px 0px 20px 4px #11111187;
+}
+form label
+{
+	color:white;
+	text-transform:uppercase;
+}
+form input
+{
+	border: none !important;
+	border-radius: 0 !important;
+	padding: 10px !important;
+}
+form button
+{
+	border: none !important;
+	border-radius: 0 !important;
+	padding: 16px 50px !important;
+	box-shadow:inset 0px 0px 20px 2px white;
+	color: white !important;
+	background: #09A7A1;;
+}
+form textarea
+{
+	border: none !important;
+	border-radius: 0 !important;
+	padding: 10px !important;
+	height: 150px !important;
+}
+
+
+
+ul {
+  list-style: none;
+
+}
+
+.container {
+  max-width: 100%;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 1rem;
+}
+.navbar {
+ 
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  background: purple;
+  
+}
+
+.navbar .container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 1rem;
+}
+
+.navbar ul {
+  justify-self: flex-end;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar a {
+ text-decoration: none;
+  display: block;
+  padding: 1em;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  
+}
+
+.navbar a:hover {
+   background: #00abe5;;
+}
+
+
+.section-a {
+  margin: 2rem 0;
+  padding-top: 9vh;
+  padding-bottom:12vh;
+  
+}
+h3{
+	font-size:25px;
+	text-align:center;
+	font-style:bold;
+	color:white;
+}
+
+#title{
+  font-family:Sans-serif;
+  font-size:50px;
+  background-color: #09A7A1;
+  color:white;
+  text-align:center;
+}
+
